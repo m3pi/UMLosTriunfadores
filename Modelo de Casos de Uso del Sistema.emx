@@ -405,7 +405,7 @@
           <include xmi:id="_KnbPUATWEeWFPue7Wdntfg" addition="_z7qU8ATIEeWFPue7Wdntfg"/>
           <include xmi:id="_IDwXEBFrEeWroMaPXnNp3w" addition="_f_wvIBFpEeWroMaPXnNp3w"/>
         </packagedElement>
-        <packagedElement xmi:type="uml:UseCase" xmi:id="_z7qU8ATIEeWFPue7Wdntfg" name="Gestionar Cuotas de Pago"/>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_z7qU8ATIEeWFPue7Wdntfg" name="Generar Cuotas de Pago"/>
         <packagedElement xmi:type="uml:UseCase" xmi:id="_0136cATIEeWFPue7Wdntfg" name="Gestion de Prestamos">
           <ownedComment xmi:id="_Y1N40ATYEeWFPue7Wdntfg" annotatedElement="_0136cATIEeWFPue7Wdntfg">
             <body>&lt;p>Listar todo los prestamos por algun filtro, consulta de a cuanto haciendo el monto total, verificar cuantos estan morosos, ver quienes deben pagar proximamente, etc&lt;/p></body>

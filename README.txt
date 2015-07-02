@@ -11,3 +11,6 @@ Primeras realizaciones hechas:
     Registrar pago de cuota de prestamo
     registrar tasa de interes
     registrar avalado
+
+    **se ha modificado flujo basico del registrar prestamo
+    **hecho d de secuencia de registrar avalado
